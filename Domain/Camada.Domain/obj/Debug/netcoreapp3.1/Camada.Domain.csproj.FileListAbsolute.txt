@@ -1,0 +1,9 @@
+C:\dti\MinhaAPI\Domain\Camada.Domain\bin\Debug\netcoreapp3.1\Camada.Domain.deps.json
+C:\dti\MinhaAPI\Domain\Camada.Domain\bin\Debug\netcoreapp3.1\Camada.Domain.dll
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.csprojAssemblyReference.cache
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.AssemblyInfoInputs.cache
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.AssemblyInfo.cs
+C:\dti\MinhaAPI\Domain\Camada.Domain\bin\Debug\netcoreapp3.1\Camada.Domain.pdb
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.csproj.CoreCompileInputs.cache
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.dll
+C:\dti\MinhaAPI\Domain\Camada.Domain\obj\Debug\netcoreapp3.1\Camada.Domain.pdb

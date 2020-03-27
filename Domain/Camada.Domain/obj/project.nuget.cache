@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KY0zC6os6YN6mjDtEdcuKuPornbI7plcZH+Bj64tyB0Dub3vo7qW4pk2cukrOWxN3sGyB83GpjFd7jCTSNzBLA==",
+  "success": true,
+  "projectFilePath": "C:\\dti\\MinhaAPI\\Domain\\Camada.Domain\\Camada.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

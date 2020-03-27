@@ -1,0 +1,12 @@
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\bin\Debug\netcoreapp3.1\Camada.Infra.Data.deps.json
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\bin\Debug\netcoreapp3.1\Camada.Infra.Data.dll
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.AssemblyInfoInputs.cache
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.AssemblyInfo.cs
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\bin\Debug\netcoreapp3.1\Camada.Infra.Data.runtimeconfig.json
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\bin\Debug\netcoreapp3.1\Camada.Infra.Data.runtimeconfig.dev.json
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.csprojAssemblyReference.cache
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.genruntimeconfig.cache
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\bin\Debug\netcoreapp3.1\Camada.Infra.Data.pdb
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.csproj.CoreCompileInputs.cache
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.dll
+C:\dti\MinhaAPI\Infra\Data\Camada.Infra.Data\obj\Debug\netcoreapp3.1\Camada.Infra.Data.pdb
