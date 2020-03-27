@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "x//2Wdr8EUW1DNrFj2633vKeJ3cEgnb7cImutUHkAcnxZt3ZI78HUe3G2LRKK5w2Ab5OxHs2YmrwHvoIeuCaQA==",
+  "dgSpecHash": "MmIAZDtsg+3mOOAPPcXOj48iIKIxcuKpknqLWtJJfO6ajJxsYnNefPWsOMQLGrtV+l6QxUrEDioBtFMcdMcWpQ==",
   "success": true,
   "projectFilePath": "C:\\dti\\MinhaAPI\\Application\\Camada.Aplicacao\\Camada.Aplicacao.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\dtidigital\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
     "C:\\Users\\dtidigital\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\dtidigital\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\dtidigital\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",

@@ -2,6 +2,47 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/8.6.2": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.AspNetCore/8.6.2": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "8.6.2",
+          "FluentValidation.DependencyInjectionExtensions": "8.6.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "FluentValidation.DependencyInjectionExtensions/8.6.2": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "8.6.2",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -2050,10 +2091,92 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Camada.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "FluentValidation.AspNetCore": "8.6.2"
+        },
+        "compile": {
+          "bin/placeholder/Camada.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Camada.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Camada.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Camada.Domain": "1.0.0",
+          "FluentValidation.AspNetCore": "8.6.2"
+        },
+        "compile": {
+          "bin/placeholder/Camada.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Camada.Service.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
   "libraries": {
+    "FluentValidation/8.6.2": {
+      "sha512": "N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
+      "type": "package",
+      "path": "fluentvalidation/8.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.8.6.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.1/FluentValidation.dll",
+        "lib/netstandard1.1/FluentValidation.xml",
+        "lib/netstandard1.6/FluentValidation.dll",
+        "lib/netstandard1.6/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.AspNetCore/8.6.2": {
+      "sha512": "55s9XfDEtykWAd3KjWiB9xM6FsYQW4K0gTWY4Sl4f65vEdb2nlS3uijtKIpRuayLYMC5/Bvd9QUhOsSGZ11Pwg==",
+      "type": "package",
+      "path": "fluentvalidation.aspnetcore/8.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+        "fluentvalidation.aspnetcore.nuspec",
+        "lib/netcoreapp3.0/FluentValidation.AspNetCore.dll",
+        "lib/netcoreapp3.0/FluentValidation.AspNetCore.xml",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll",
+        "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml",
+        "lib/netstandard2.0/FluentValidation.AspNetCore.dll",
+        "lib/netstandard2.0/FluentValidation.AspNetCore.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/8.6.2": {
+      "sha512": "A3Hw0xjB/j6b/UiC8RgLsp5TkApZOsLzh5LAmfZkbQpWBrAqo8B4eOm+uyYhN3crSg0E6kgse8k6EdZpRoj+sQ==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/8.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "sha512": "Y4rs5aMEXY8G7wJo5S3EEt6ltqyOTr/qOeZzfn+hw/fuQj5GppGckMY5psGLETo1U9hcT5MmAhaT5xtusM1b5g==",
       "type": "package",
@@ -6748,10 +6871,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Camada.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/Camada.Domain/Camada.Domain.csproj",
+      "msbuildProject": "../../Domain/Camada.Domain/Camada.Domain.csproj"
+    },
+    "Camada.Service/1.0.0": {
+      "type": "project",
+      "path": "../../Service/Camada.Service/Camada.Service.csproj",
+      "msbuildProject": "../../Service/Camada.Service/Camada.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Camada.Service >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
@@ -6787,7 +6921,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dti\\MinhaAPI\\Service\\Camada.Service\\Camada.Service.csproj": {
+              "projectPath": "C:\\dti\\MinhaAPI\\Service\\Camada.Service\\Camada.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -112,3 +112,11 @@ C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\zh-Hans\Mic
 C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\dti\MinhaAPI\Application\Camada.Aplicacao\obj\Debug\netcoreapp3.1\Camada.Aplicacao.csproj.CoreCompileInputs.cache
 C:\dti\MinhaAPI\Application\Camada.Aplicacao\obj\Debug\netcoreapp3.1\Camada.Aplicacao.MvcApplicationPartsAssemblyInfo.cache
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\obj\Debug\netcoreapp3.1\Camada.Aplicacao.MvcApplicationPartsAssemblyInfo.cs
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\Camada.Domain.dll
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\Camada.Service.dll
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\Camada.Service.pdb
+C:\dti\MinhaAPI\Application\Camada.Aplicacao\bin\Debug\netcoreapp3.1\Camada.Domain.pdb

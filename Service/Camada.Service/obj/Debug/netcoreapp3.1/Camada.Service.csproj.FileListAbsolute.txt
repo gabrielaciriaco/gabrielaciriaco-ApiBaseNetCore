@@ -6,3 +6,7 @@ C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.As
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.AssemblyInfo.cs
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.dll
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.pdb
+C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.csproj.CoreCompileInputs.cache
+C:\dti\MinhaAPI\Service\Camada.Service\bin\Debug\netcoreapp3.1\Camada.Domain.dll
+C:\dti\MinhaAPI\Service\Camada.Service\bin\Debug\netcoreapp3.1\Camada.Domain.pdb
+C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.csproj.CopyComplete
