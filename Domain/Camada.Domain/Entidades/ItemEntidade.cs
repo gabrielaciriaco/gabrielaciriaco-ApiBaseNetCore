@@ -2,7 +2,7 @@
 {
     public abstract class ItemEntidade : BaseEntity
     {
-        public int Id { get; set; }
+        public override int Id { get; set; }
         public string EstaCompleto { get; set; }
         public string Nome { get; set; }
     }

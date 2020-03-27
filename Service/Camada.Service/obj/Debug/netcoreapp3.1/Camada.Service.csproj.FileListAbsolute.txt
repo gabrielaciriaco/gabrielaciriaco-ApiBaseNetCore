@@ -2,7 +2,6 @@ C:\dti\MinhaAPI\Service\Camada.Service\bin\Debug\netcoreapp3.1\Camada.Service.de
 C:\dti\MinhaAPI\Service\Camada.Service\bin\Debug\netcoreapp3.1\Camada.Service.dll
 C:\dti\MinhaAPI\Service\Camada.Service\bin\Debug\netcoreapp3.1\Camada.Service.pdb
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.csprojAssemblyReference.cache
-C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.csproj.CoreCompileInputs.cache
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.AssemblyInfoInputs.cache
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.AssemblyInfo.cs
 C:\dti\MinhaAPI\Service\Camada.Service\obj\Debug\netcoreapp3.1\Camada.Service.dll

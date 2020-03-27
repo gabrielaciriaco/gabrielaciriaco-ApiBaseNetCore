@@ -5,15 +5,13 @@ namespace Camada.Domain.Interfaces
 {
     public interface IRepositorio
     {
-        void Insert(ItemEntidade obj);
+        RetornoPadrao Insert(ItemEntidade obj);
 
-        void Update(ItemEntidade obj);
+        RetornoPadrao Update(ItemEntidade obj);
 
-        void Remove(Int id);
+        RetornoPadrao Remove(int id);
 
-        ItemEntidade Select(Int id);
-
-        IList<ItemEntidade> SelectAll();
+        ItemEntidade Select(int id);
 
     }
 }
